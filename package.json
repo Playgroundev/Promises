@@ -1,0 +1,16 @@
+{
+	"name": "QuaggaJs",
+	"version": "1.0.0",
+	"description": "Implementation of Bar Code Scanner",
+	"main": "main.js",
+	"author": "Brian Kamau",
+	"license": "MIT",
+	"private": true,
+
+  "devDependencies": {
+    "package-json-from-template": "0.0.3"
+  },
+  "dependencies": {
+    "quagga": "^0.12.1"
+  }
+}
